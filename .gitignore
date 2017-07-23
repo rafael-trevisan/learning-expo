@@ -1,0 +1,6 @@
+keyboard-no-ok-sdk-19/node_modules/
+keyboard-ok-sdk-18/node_modules/
+keyboard-no-ok-sdk-19/.expo/*
+keyboard-ok-sdk-18/.expo/*
+keyboard-no-ok-sdk-19/npm-debug.*
+keyboard-ok-sdk-18/npm-debug.*
